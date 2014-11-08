@@ -21,7 +21,7 @@
 }
 -(void)initView
 {
-    
+    NSLog(@"initView");
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
