@@ -50,6 +50,7 @@
 		A901437A1A0D29F000FC18C5 /* Test1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test1.m; sourceTree = "<group>"; };
 		A901437E1A0DD50B00FC18C5 /* File.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = File.rtf; sourceTree = "<group>"; };
 		A90143801A0DDF6B00FC18C5 /* File.metal */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.metal; path = File.metal; sourceTree = "<group>"; };
+		A9516E8E1A0DF1330022F865 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +102,7 @@
 				A901437A1A0D29F000FC18C5 /* Test1.m */,
 				A90143801A0DDF6B00FC18C5 /* File.metal */,
 				A901437E1A0DD50B00FC18C5 /* File.rtf */,
+				A9516E8E1A0DF1330022F865 /* PrefixHeader.pch */,
 				A901435A1A0D24BF00FC18C5 /* Main.storyboard */,
 				A901435D1A0D24BF00FC18C5 /* Images.xcassets */,
 				A901435F1A0D24BF00FC18C5 /* LaunchScreen.xib */,
